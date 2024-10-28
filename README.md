@@ -12,7 +12,7 @@ A real-time chat application built using React and Firebase. This application al
 
 ## Technologies Used
 
-- **Frontend**: React, React Router
+- **Frontend**: React
 - **Styling**: Sass (SCSS)
 - **Backend**: Firebase (Firestore for database and Firebase Authentication for user management)
 - **Deployment**: GitHub Pages
